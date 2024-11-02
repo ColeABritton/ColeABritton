@@ -6,8 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ColeABritton/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ColeABritton/post-install-config)
 - <b>Active Directory within Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/ColeABritton/Preparing-Active-Directory-Infrastructure-in-Azure)
+  - [Configuring Active Directory within Azure VMs](https://github.com/ColeABritton/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ColeABritton/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
