@@ -8,7 +8,7 @@
 - <b>Active Directory within Microsoft Azure</b>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/ColeABritton/Preparing-Active-Directory-Infrastructure-in-Azure)
   - [Configuring Active Directory within Azure VMs](https://github.com/ColeABritton/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ColeABritton/azure-network-protocols)
+  - [Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/ColeABritton/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
